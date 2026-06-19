@@ -1,21 +1,12 @@
 <h1 align="center">Salem 👋, I'm Arnur Bozzhigit</h1>
-<h3 align="center">A passionate fullstack developer, golfer from Qazaqstan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnurbo7&label=Profile%20views&color=0e75b6&style=flat" alt="arnurbo7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnurbo7" alt="arnurbo7" /></a> </p>
 
-- 🔭 I’m currently working on **Kipchak**
-
 - 🌱 I’m currently learning **Javascript,React**
 
-- 👯 I’m looking to collaborate on [Duolingo](https://www.instagram.com/kipchak_bot/)
-
-- 🤝 I’m looking for help with **Uploading my project Kipchak**
-
 - 👨‍💻 All of my projects are available at [https://github.com/arnurbo7](https://github.com/arnurbo7)
-
-- 💬 Ask me about **Golf**
 
 - 📫 How to reach me **arnurbo7@gmail.com**
 
